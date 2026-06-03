@@ -15,7 +15,7 @@ A Spring Boot REST API project that performs CRUD operations on student records 
 
 ## Technologies Used
 
-- Java 17
+- Java 
 - Spring Boot
 - Spring Data JPA
 - Spring Cache
